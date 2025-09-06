@@ -1,0 +1,12 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "Simple node api",
+  "license": "ISC",
+  "author": "ScoutGoose",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
